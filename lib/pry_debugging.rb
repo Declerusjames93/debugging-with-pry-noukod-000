@@ -1,5 +1,5 @@
-def plus_two(num = 1)
+def plus_two(num = "1".to_i)
 	num + 2
-	return um
+	return num
 	binding.pry
 end
